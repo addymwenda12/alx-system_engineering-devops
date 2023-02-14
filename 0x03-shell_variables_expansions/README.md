@@ -1,4 +1,4 @@
-script that creates a new local variable.
+script that creates a new global variable.
 
 Name: BEST
 Value: School
